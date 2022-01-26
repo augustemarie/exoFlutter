@@ -57,20 +57,20 @@
 6. *Cupertino (iOSstyle widgets)* 
 
 
-    *   CupertinoActionSheet
-    *  CupertinoActivityIndicator
+    * CupertinoActionSheet
+    * CupertinoActivityIndicator
     
-    *   CupertinoAlertDialog
-    *  CupertinoButton
-    *  CupertinoContextMenu
-    *   CupertinoDatePicker
-    *  CupertinoDialogAction
-    *  CupertinoFullscreenDialogTransition
-    *  CupertinoNavigationBar
-    *  CupertinoPageScaffold
-    *  CupertinoPageTransition
-    *  CupertinoPicker
-    *  CupertinoPopupSurface
+    * CupertinoAlertDialog
+    * CupertinoButton
+    * CupertinoContextMenu
+    * CupertinoDatePicker
+    * CupertinoDialogAction
+    * CupertinoFullscreenDialogTransition
+    * CupertinoNavigationBar
+    * CupertinoPageScaffold
+    * CupertinoPageTransition
+    * CupertinoPicker
+    * CupertinoPopupSurface
     * CupertinoScrollbar
     * CupertinoSearchTextField
     * CupertinoSegmentedControl
@@ -213,16 +213,16 @@
 
 11. *Painting and effects* 
 
-        * BackdropFilter
-        * ClipOval
-        * ClipPath
-        * ClipRect
-        * CustomPaint
-        * DecoratedBox
-        * FractionalTranslation
-        * Opacity
-        * RotatedBox
-        * Transform
+    * BackdropFilter
+    * ClipOval
+    * ClipPath
+    * ClipRect
+    * CustomPaint
+    * DecoratedBox
+    * FractionalTranslation
+    * Opacity
+    * RotatedBox
+    * Transform
 
 12. *Scrolling* 
 
