@@ -5,7 +5,7 @@
     *  MergeSemantics
     *  Semantics
 
-2. * Animation and Motion* 
+2. *Animation and Motion* 
     *  AnimatedAlign
     *  AnimatedBuilder
     *  AnimatedContainer
@@ -28,19 +28,19 @@
     *  SizeTransition
     *  SlideTransition
 
-3. * Assets, Images, and Icons* 
+3. *Assets, Images, and Icons* 
 
     *  AssetBundle
     *  Icon
     *   Image
     *  RawImage
 
-4. * Async* 
+4. *Async* 
 
     *  FutureBuilder
     *  StreamBuilder
 
-5. * Basics* 
+5. *Basics* 
 
     *   Appbar
     *  Column
@@ -54,7 +54,7 @@
     *  Scaffold
     *  Text
 
-6. * Cupertino (iOSstyle widgets)* 
+6. *Cupertino (iOSstyle widgets)* 
 
 
     *   CupertinoActionSheet
@@ -84,14 +84,14 @@
     * CupertinoTextField
     * CupertinoTimerPicker
 
-7. * Input* 
+7. *Input* 
 
     * Autocomplete
     * Form
     * FormField
     * RawKeyboardListener
 
-8. * Interaction Models* 
+8. *Interaction Models* 
     * AbsorbPointer
     * Dismissible
     * DragTarget
@@ -106,7 +106,7 @@
     * Hero
     * Navigator
 
-9. * Layout* 
+9. *Layout* 
 
     1. *Single child layout widgets*
         * Align
@@ -211,7 +211,7 @@
         * ListTile
         * Stepper
 
-11. * Painting and effects* 
+11. *Painting and effects* 
 
         * BackdropFilter
         * ClipOval
