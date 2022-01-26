@@ -170,43 +170,42 @@
         * WidgetsApp
 
     2. *Buttons*
-        * DropdownButton
-        * ElevatedButton
-        * FloatingActionButton
-        * IconButton
-        * OutlinedButton
-        * PopupMenuButton
-        * TextButton
+           * DropdownButton
+           * ElevatedButton
+           * FloatingActionButton
+           * IconButton
+           * OutlinedButton
+           * PopupMenuButton
+           * TextButton
         
     3. *Input and selections*
-        * Checkbox
-        * Date & Time Pickers
-        * Radio
-        * Slider
-        * Switch
-        * TextField
+           * Checkbox
+           * Date & Time Pickers
+           * Radio
+           * Slider
+           * Switch
+           * TextField
 
     4. *Dialogs, alerts, and panels*
-        * AlertDialog
-        * BottomSheet
-        * ExpansionPanel
-        * SimpleDialog
-        * SnackBar
+           * AlertDialog
+           * BottomSheet
+           * ExpansionPanel
+           * SimpleDialog
+           * SnackBar
 
     
     5. *Information displays*
-        * Card
-        * Chip
-        * CircularProgressIndicator
-        * DataTable
-        * GridView
-        * Icon
-        * Image
-        * LinearProgressIndicator
-        * Tooltip
+           * Card
+           * Chip
+           * CircularProgressIndicator
+           * DataTable
+           * GridView
+           * Icon
+           * Image
+           * LinearProgressIndicator
+           * Tooltip
 
-    6. *Layout*
-
+    6.  *Layout*           
         * Tooltip
         * ListTile
         * Stepper
