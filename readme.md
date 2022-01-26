@@ -1,4 +1,4 @@
-* *   Liste des categories de widgets * * 
+**   Liste des categories de widgets ** 
 
 1. * Widgets de Accessibility* 
     *  ExcludeSemantics
@@ -156,6 +156,7 @@
         * SliverToBoxAdapter
 
 10. *Material Components* 
+ 
    1.  *App structure and navigation*
         * Appbar
         * BottomNavigationBar
@@ -167,7 +168,7 @@
         * TabBarView
         * TabController
         * TabPageSelector
-        * WidgetsApp
+        * WidgetsApp`
 
     2. *Buttons*
            * DropdownButton
